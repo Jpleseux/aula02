@@ -1,0 +1,51 @@
+/* style.css */
+
+/* Estilo geral */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  text-align: center;
+}
+
+/* Estilo do título */
+h2 {
+  color: #2c3e50;
+  margin-top: 20px;
+  font-size: 2em;
+}
+
+/* Estilo da lista ordenada */
+ol {
+  list-style-type: decimal;
+  padding-left: 0;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+/* Estilo dos itens da lista */
+li {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 20px;
+  text-align: left;
+}
+
+/* Estilo do texto dentro dos itens da lista */
+li p {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+/* Estilo das imagens */
+li img {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
